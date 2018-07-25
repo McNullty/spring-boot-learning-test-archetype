@@ -1,0 +1,9 @@
+<archetype>
+  <id>spring-boot-learning-test-archetype</id>
+  <sources>
+    <source>src/main/java/Application.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/ApplicationTest.java</source>
+  </testSources>
+</archetype>
